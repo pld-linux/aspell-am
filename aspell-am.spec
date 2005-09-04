@@ -1,6 +1,6 @@
 Summary:	Amharic dictionary for aspell
 Summary(pl):	S³ownik amharski dla aspella
-Name:		aspell-he
+Name:		aspell-am
 Version:	0.03
 %define	subv	1
 Release:	1
