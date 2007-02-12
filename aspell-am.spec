@@ -1,5 +1,5 @@
 Summary:	Amharic dictionary for aspell
-Summary(pl.UTF-8):   Słownik amharski dla aspella
+Summary(pl.UTF-8):	Słownik amharski dla aspella
 Name:		aspell-am
 Version:	0.03
 %define	subv	1
