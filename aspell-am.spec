@@ -6,7 +6,7 @@ Version:	0.03
 Release:	1
 License:	Public Domain
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/am/aspell6-am-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/am/aspell6-am-%{version}-%{subv}.tar.bz2
 # Source0-md5:	7e28708b53bd4bc3008dfb04237413ac
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 3:0.60
