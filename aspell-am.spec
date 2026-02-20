@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik amharski dla aspella
 Name:		aspell-am
 Version:	0.03
 %define	subv	1
-Release:	1
+Release:	2
 License:	Public Domain
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/am/aspell6-am-%{version}-%{subv}.tar.bz2
